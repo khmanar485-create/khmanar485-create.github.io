@@ -1,31 +1,27 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Manar Khadouma – Portfolio Data & BI
 
+Bienvenue sur mon portfolio en ligne. Ce site présente mes projets en **Business Intelligence, Data Analytics et développement**.
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+🔗 **Accès au site** : [khmanar485-create.github.io](https://khmanar485-create.github.io)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 📌 Contenu du portfolio
 
-(* = not included)
+- **Sales Analytics (Python + Power BI)** – analyse de 185k lignes, modèle prédictif, dashboard interactif.
+- **Healthcare Data Warehouse (PostgreSQL + Python ETL)** – entrepôt de données, chargement incrémental, 8 KPI dashboards, export Power BI.
+- **Bug Tracking System (Java + PostgreSQL)** – base normalisée, 6 requêtes SQL analytiques.
+- **Test Automation Suite (Python + Selenium)** – 20+ tests automatisés, rapports HTML, Bugzilla.
+- **FitTrack (freelance)** – application web full‑stack, dashboards temps réel, livraison agile.
 
-AJ
-aj@lkn.io | @ajlkn
+## 🛠️ Technologies
 
+Python, SQL, PostgreSQL, Power BI, Java, Selenium, Git, GitHub Pages.
 
-Credits:
+## 📫 Contact
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- **Email** : khmanar485@gmail.com
+- **LinkedIn** : [linkedin.com/in/manar-khadouma-519994322](https://linkedin.com/in/manar-khadouma-519994322)
+- **GitHub** : [github.com/khmanar485-create](https://github.com/khmanar485-create)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Site réalisé avec le template **Stellar** de [HTML5 UP](https://html5up.net), personnalisé pour mon portfolio.
